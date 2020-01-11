@@ -70,4 +70,12 @@
             monitor.Text = monitor.Text & "9"
         End If
     End Sub
+
+    Private Sub btn0_Click(sender As Object, e As EventArgs) Handles btn0.Click
+        If monitor.Text = "0" Then
+            monitor.Text = "0"
+        Else
+            monitor.Text = monitor.Text & "0"
+        End If
+    End Sub
 End Class
