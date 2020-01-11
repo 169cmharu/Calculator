@@ -54,4 +54,12 @@
             monitor.Text = monitor.Text & "7"
         End If
     End Sub
+
+    Private Sub btn8_Click(sender As Object, e As EventArgs) Handles btn8.Click
+        If monitor.Text = "0" Then
+            monitor.Text = "8"
+        Else
+            monitor.Text = monitor.Text & "8"
+        End If
+    End Sub
 End Class
