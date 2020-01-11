@@ -46,4 +46,12 @@
             monitor.Text = monitor.Text & "6"
         End If
     End Sub
+
+    Private Sub btn7_Click(sender As Object, e As EventArgs) Handles btn7.Click
+        If monitor.Text = "0" Then
+            monitor.Text = "7"
+        Else
+            monitor.Text = monitor.Text & "7"
+        End If
+    End Sub
 End Class
