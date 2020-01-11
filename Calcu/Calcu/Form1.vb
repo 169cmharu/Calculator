@@ -14,4 +14,12 @@
             monitor.Text = monitor.Text & "2"
         End If
     End Sub
+
+    Private Sub btn3_Click(sender As Object, e As EventArgs) Handles btn3.Click
+        If monitor.Text = "0" Then
+            monitor.Text = "3"
+        Else
+            monitor.Text = monitor.Text & "3"
+        End If
+    End Sub
 End Class
