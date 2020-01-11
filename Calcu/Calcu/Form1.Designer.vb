@@ -67,7 +67,7 @@ Partial Class Calculator
         Me.Button13 = New System.Windows.Forms.Button()
         Me.Button14 = New System.Windows.Forms.Button()
         Me.Button15 = New System.Windows.Forms.Button()
-        Me.Label1 = New System.Windows.Forms.Label()
+        Me.monitor = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'btn1
@@ -456,18 +456,20 @@ Partial Class Calculator
         Me.Button15.Name = "Button15"
         Me.Button15.UseVisualStyleBackColor = False
         '
-        'Label1
+        'monitor
         '
-        resources.ApplyResources(Me.Label1, "Label1")
-        Me.Label1.ForeColor = System.Drawing.Color.White
-        Me.Label1.Name = "Label1"
+        Me.monitor.BackColor = System.Drawing.Color.FromArgb(CType(CType(99, Byte), Integer), CType(CType(107, Byte), Integer), CType(CType(188, Byte), Integer))
+        Me.monitor.BorderStyle = System.Windows.Forms.BorderStyle.None
+        resources.ApplyResources(Me.monitor, "monitor")
+        Me.monitor.ForeColor = System.Drawing.Color.White
+        Me.monitor.Name = "monitor"
         '
         'Calculator
         '
         resources.ApplyResources(Me, "$this")
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(99, Byte), Integer), CType(CType(107, Byte), Integer), CType(CType(188, Byte), Integer))
-        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.monitor)
         Me.Controls.Add(Me.Button15)
         Me.Controls.Add(Me.Button14)
         Me.Controls.Add(Me.Button13)
@@ -512,6 +514,7 @@ Partial Class Calculator
         Me.Controls.Add(Me.btn3)
         Me.Controls.Add(Me.btn2)
         Me.Controls.Add(Me.btn1)
+        Me.ForeColor = System.Drawing.Color.White
         Me.MaximizeBox = False
         Me.Name = "Calculator"
         Me.ShowIcon = False
@@ -564,5 +567,5 @@ Partial Class Calculator
     Friend WithEvents Button13 As Button
     Friend WithEvents Button14 As Button
     Friend WithEvents Button15 As Button
-    Friend WithEvents Label1 As Label
+    Friend WithEvents monitor As TextBox
 End Class

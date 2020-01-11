@@ -1440,34 +1440,34 @@
   <data name="&gt;&gt;Button15.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="Label1.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="monitor.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Open Sans SemiBold, 20.25pt, style=Bold</value>
   </data>
-  <data name="Label1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Open Sans SemiBold, 20pt, style=Bold</value>
+  <data name="monitor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 53</value>
   </data>
-  <data name="Label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>264, 40</value>
+  <data name="monitor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>288, 37</value>
   </data>
-  <data name="Label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>32, 37</value>
-  </data>
-  <data name="Label1.TabIndex" type="System.Int32, mscorlib">
+  <data name="monitor.TabIndex" type="System.Int32, mscorlib">
     <value>45</value>
   </data>
-  <data name="Label1.Text" xml:space="preserve">
+  <data name="monitor.Text" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;Label1.Name" xml:space="preserve">
-    <value>Label1</value>
+  <data name="monitor.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Right</value>
   </data>
-  <data name="&gt;&gt;Label1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;monitor.Name" xml:space="preserve">
+    <value>monitor</value>
   </data>
-  <data name="&gt;&gt;Label1.Parent" xml:space="preserve">
+  <data name="&gt;&gt;monitor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;monitor.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;Label1.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;monitor.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">

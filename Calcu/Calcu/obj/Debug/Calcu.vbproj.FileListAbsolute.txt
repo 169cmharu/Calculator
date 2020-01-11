@@ -12,3 +12,17 @@ C:\Users\4\source\repos\Calcu\Calcu\bin\Debug\aa\Calcu.resources.dll
 C:\Users\4\source\repos\Calcu\Calcu\obj\Debug\Calcu.Calculator.resources
 C:\Users\4\source\repos\Calcu\Calcu\obj\Debug\Calcu.Calculator.aa.resources
 C:\Users\4\source\repos\Calcu\Calcu\obj\Debug\aa\Calcu.resources.dll
+C:\Users\De Llen Sydney\Documents\Visual Studio 2015\Projects\bscoe-elec3\Calcu\Calcu\bin\Debug\Calcu.exe.config
+C:\Users\De Llen Sydney\Documents\Visual Studio 2015\Projects\bscoe-elec3\Calcu\Calcu\obj\Debug\Calcu.exe
+C:\Users\De Llen Sydney\Documents\Visual Studio 2015\Projects\bscoe-elec3\Calcu\Calcu\obj\Debug\Calcu.xml
+C:\Users\De Llen Sydney\Documents\Visual Studio 2015\Projects\bscoe-elec3\Calcu\Calcu\obj\Debug\Calcu.pdb
+C:\Users\De Llen Sydney\Documents\Visual Studio 2015\Projects\bscoe-elec3\Calcu\Calcu\obj\Debug\Calcu.vbprojResolveAssemblyReference.cache
+C:\Users\De Llen Sydney\Documents\Visual Studio 2015\Projects\bscoe-elec3\Calcu\Calcu\obj\Debug\Calcu.Calculator.resources
+C:\Users\De Llen Sydney\Documents\Visual Studio 2015\Projects\bscoe-elec3\Calcu\Calcu\obj\Debug\Calcu.Resources.resources
+C:\Users\De Llen Sydney\Documents\Visual Studio 2015\Projects\bscoe-elec3\Calcu\Calcu\obj\Debug\Calcu.Calculator.aa.resources
+C:\Users\De Llen Sydney\Documents\Visual Studio 2015\Projects\bscoe-elec3\Calcu\Calcu\obj\Debug\Calcu.vbproj.GenerateResource.Cache
+C:\Users\De Llen Sydney\Documents\Visual Studio 2015\Projects\bscoe-elec3\Calcu\Calcu\bin\Debug\Calcu.exe
+C:\Users\De Llen Sydney\Documents\Visual Studio 2015\Projects\bscoe-elec3\Calcu\Calcu\bin\Debug\Calcu.pdb
+C:\Users\De Llen Sydney\Documents\Visual Studio 2015\Projects\bscoe-elec3\Calcu\Calcu\bin\Debug\Calcu.xml
+C:\Users\De Llen Sydney\Documents\Visual Studio 2015\Projects\bscoe-elec3\Calcu\Calcu\bin\Debug\aa\Calcu.resources.dll
+C:\Users\De Llen Sydney\Documents\Visual Studio 2015\Projects\bscoe-elec3\Calcu\Calcu\obj\Debug\aa\Calcu.resources.dll
